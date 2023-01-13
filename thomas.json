@@ -3,9 +3,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "admob_interid":"ca-app-pub-3023027054034643/7391051652",
-      "admob_native":"ca-app-pub-3023027054034643/6077969981",
-      "admob_openid": "ca-app-pub-3023027054034643/5726368772",
+      "admob_interid":"ca-app-pub-3023027054034643/1198193723",
+      "admob_native":"ca-app-pub-3023027054034643/5781286629",
+      "admob_openid": "ca-app-pub-3023027054034643/5862259241",
       "admob_rewardid":"#",
       "max_banner":"",
       "max_inter":"",
